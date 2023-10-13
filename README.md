@@ -1,6 +1,6 @@
 # AuroPayPaymentsSandbox for Swift Package Manager
 
-### Installing Lottie
+### Installing AuroPayPaymentsSandbox
 
 To install AuroPayPaymentsSandbox using [Swift Package Manager](https://github.com/apple/swift-package-manager) you can follow the [tutorial published by Apple](https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_your_app) using the URL for this repo with the current version:
 
