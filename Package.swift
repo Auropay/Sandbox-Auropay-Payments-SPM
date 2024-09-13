@@ -21,6 +21,6 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(name: "AuroPayPaymentsSandbox",
                       url:"https://auropay-mobileapplication-public-artifacts.s3.ap-south-1.amazonaws.com/AuroPayPaymentsSandbox.xcframework.zip",
-                      checksum:"20dbe67d0ac5622b5311c3e702239a3208c69833a2f8f613152d69756e533d08")
+                      checksum:"82bca09e45aefa417de2052d1a44f92ea947349eeb192a3899991c5a5f31ef89")
     ]
 )
