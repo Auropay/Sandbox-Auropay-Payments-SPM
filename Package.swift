@@ -20,7 +20,7 @@ let package = Package(
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(name: "AuroPayPaymentsSandbox",
-                      url:"https://auropay-mobileapplication-public-artifacts.s3.ap-south-1.amazonaws.com/AuroPayPaymentsSandbox.xcframework.zip",
+                      url:"https://auropay-mobileapplication-public-artifacts.s3.ap-south-1.amazonaws.com/1.1.1/AuroPayPaymentsSandbox.xcframework.zip",
                       checksum:"82bca09e45aefa417de2052d1a44f92ea947349eeb192a3899991c5a5f31ef89")
     ]
 )
